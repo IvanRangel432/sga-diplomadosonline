@@ -22,6 +22,6 @@
 *Git & Github
  
 # Autor 
-  **Nombre**:Ivan Rangel 
-  **Programa**:Diplomados Online 
-  **Institucion**:Universidad Central de Venezuela
+  **Nombre**: Ivan Rangel 
+  **Programa**: Diplomados Online 
+  **Institucion**: Universidad Central de Venezuela
