@@ -1,2 +1,0 @@
-Este es un archivo de texto plano para probar Git.
-Sirve para verificar el historial de cambios y líneas modificadas.
