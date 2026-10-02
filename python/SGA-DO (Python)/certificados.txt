@@ -1,0 +1,22 @@
+=================================
+          REPORTE GENERAL        
+=================================
+El total de graduandos en cola: 4
+
+1. [V-123] Juan Perez
+Programa: Diplomado
+-- Promedio Final: 13.67
+==========================================
+2. [V-876] Maria Lopez
+Programa: Diplomado
+-- Promedio Final: 16.33
+==========================================
+3. [V-112] Carlos Gomez
+Programa: Diplomado
+-- Promedio Final: 15.00
+==========================================
+4. [V-122] Liseet Rojas
+Programa: Diplomado
+-- Promedio Final: 20.00
+==========================================
+-- Fin del reporte - Generado por el SGA -- 
