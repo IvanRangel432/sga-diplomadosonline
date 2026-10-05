@@ -1,2 +1,0 @@
-P-999,Dr.Pedro Infante,pedro@email.com,Backend,C++ y Algoritmos
-P-888,Ing.Laura Soto,laura@email.com,Frontend,Javascript Core 999, Pedro Infante , pedro@email.com, C++ y Algoritmos
