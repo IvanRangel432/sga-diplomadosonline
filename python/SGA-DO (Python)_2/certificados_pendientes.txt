@@ -1,0 +1,36 @@
+=========================================
+   REPORTE DE CERTIFICADOS PENDIENTES    
+=========================================
+Total de graduandos en cola: 6
+
+1. [123] Juan Perez
+- Programa: Curso
+- Promedio Final: 13.7
+- Estatus: APROBADO
+=========================================
+2. [876] Maria Lopez
+- Programa: Diplomado
+- Promedio Final: 16.3
+- Estatus: APROBADO
+=========================================
+3. [112] Carlos Gomez
+- Programa: Bootcamp
+- Promedio Final: 15.0
+- Estatus: APROBADO (Cumple regla de ninguna nota < 14)
+=========================================
+4. [122] Liseet Rojas
+- Programa: Diplomado
+- Promedio Final: 20.0
+- Estatus: APROBADO
+=========================================
+5. [669] ivan@email.com
+- Programa: Bootcamp
+- Promedio Final: 20.0
+- Estatus: APROBADO (Cumple regla de ninguna nota < 14)
+=========================================
+6. [688] isandra@email.com
+- Programa: Curso
+- Promedio Final: 18.3
+- Estatus: APROBADO
+=========================================
+* Fin del reporte - Generado por SGA-DO *
