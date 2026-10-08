@@ -1,8 +1,0 @@
-123,Juan Perez,juan@email.com,Curso,12,15,14
-876,Maria Lopez,maria@email.com,Diplomado,15,16,18
-112,Carlos Gomez,carlos@email.com,Bootcamp,14,15,16
-122,Liseet Rojas,liseet@email.com,Diplomado,20,20,20
-669,ivan@email.com,Ivan Rangel,Bootcamp,20,20,20
-688,isandra@email.com,Isandra Martinez,Curso,17,18,20
-113,laura@email.com,Laura Rangel,Bootcamp,9,3,7
-166,Pedro@email.com,Pedro,Bootcamp,5,4,8
