@@ -1,0 +1,2 @@
+579,Ivii,ivii@email.com,Diplomado,15,16,18
+404,Luis Rojas,luiz@email.com,Bootcamp,14.0,14
