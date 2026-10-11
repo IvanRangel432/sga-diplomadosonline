@@ -1,0 +1,11 @@
+=========================================
+   REPORTE DE CERTIFICADOS PENDIENTES    
+=========================================
+Total de graduandos en cola: 1
+
+1. [579] Ivii
+- Programa: Diplomado
+- Promedio Final: 16.3
+- Estatus: APROBADO
+=========================================
+* Fin del reporte - Generado por SGA-DO *
