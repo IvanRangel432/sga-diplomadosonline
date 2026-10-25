@@ -1,0 +1,5 @@
+579,Ivii,ivii@email.com,Diplomado,15,16,18
+404,Luis Rojas,luiz@email.com,Bootcamp,14.0,14
+899,Ivan,ivan@email.com,Curso,15,17
+Nombre: Ivan | Cédula: 234 | Correo: ivan@email.com | Programa Académico: Diplomado
+234,Ivan Abraham,ivanAbraham@emial.com,Diplomado,14,10

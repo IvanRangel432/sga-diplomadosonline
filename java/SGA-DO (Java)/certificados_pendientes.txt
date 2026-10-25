@@ -1,0 +1,16 @@
+=========================================
+   REPORTE DE CERTIFICADOS PENDIENTES    
+=========================================
+Total de graduandos en cola: 2
+
+1. [579] Ivii
+- Programa: Diplomado
+- Promedio Final: 16
+- Estatus: 3
+=========================================
+2. [899] Ivan
+- Programa: Curso
+- Promedio Final: 10
+- Estatus: 7
+=========================================
+* Fin del reporte - Generado por SGA-DO *
